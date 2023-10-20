@@ -1,0 +1,121 @@
+
+
+
+
+body {
+    display: -ms-grid;
+    background-color: black;
+    background-image: url("nasas_deepest_3d_fly_through_of_the_universe_1050x700.gif");
+    padding: 9px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 20cap;
+    color: rgb(152, 21, 21);
+
+}
+.btn{
+    color: aqua;
+    font-family: serif;
+    background: #000;
+    font-size: larger;
+    
+}
+.pic{
+    padding: 15px 30px 40px 0px;
+    background-color: #000;
+    box-sizing: border-box;
+    border-radius: 20px 30px;
+    text-shadow: cyan;
+    margin: 20px 30px;
+    
+}
+
+.block{
+    
+
+    color: rgb(82, 0, 0);
+    text-shadow: 40cap;
+    background-color:  rgb(232, 201, 146);
+    box-shadow: 10px maroon;
+    text-rendering: geometricPrecision;
+   
+}
+.block:hover{
+    background-color:rgb(184, 244, 244);
+    color: darkblue;
+}
+
+h1{
+    padding: 4px;
+    background-color: rgb(114, 237, 237);
+    color: whitesmoke;
+    
+
+}
+
+.a{
+    align-items: center;
+    justify-content: end;
+    color:whitesmoke;
+}
+.container{
+   
+    background: 3px rgb(202, 65, 209);
+    display:flex;
+    padding: 4px;
+    margin: 30px;
+    opacity: 0.5;
+    color: rgb(79, 233, 233);
+    text-overflow: ellipsis;
+    text-shadow: 10cap;
+    box-shadow: 5px 5px;
+   
+}
+.pic:hover{
+   
+    border-radius: 220px 10px;
+    box-sizing: content-box;
+    padding: 4px;
+    margin: 4px;
+
+    
+    color: cyan;
+    background:rgb(49, 95, 95);
+    text-shadow: 3px;
+    
+}
+.last{
+    color: maroon;
+    font-weight: bolder;
+    background-color: aliceblue;
+    padding: 10px 30px;
+    font-size: medium;
+    text-shadow: 10cap;
+    box-sizing: content-box;
+    border-bottom: cyan;
+}
+
+ 
+
+
+
+.mini-box{
+   
+    background-color: 10px  rgb(66, 66, 65);
+    color: aliceblue;
+    background-clip: border-box;
+    padding: 4px;
+    box-sizing: content-box;
+}
+img{
+    background-color: azure;
+    color: rgb(32, 204, 204);
+    image-resolution: 200px;
+    
+}
+h3:hover{
+    color: darkblue;
+    background-color: rgb(48, 251, 251);
+    text-overflow:ellipsis;
+
+}
